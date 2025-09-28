@@ -142,7 +142,7 @@ O dataset será carregado por URL pública (GitHub RAW) conforme instruções do
 Opção B — Local (Jupyter)
 git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
 cd <seu-repositorio>
-# crie e ative o ambiente; instale requirements compatíveis
+crie e ative o ambiente; instale requirements compatíveis
 jupyter notebook mvp_medicines_high_acceptance.ipynb
 
 🧭 Limitações & Próximos Passos
